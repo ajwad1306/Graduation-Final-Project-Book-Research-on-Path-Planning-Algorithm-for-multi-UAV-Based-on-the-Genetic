@@ -1,0 +1,2 @@
+# Graduation-Final-Project-Book-Research-on-Path-Planning-Algorithm-for-multi-UAV-Based-on-the-Genetic
+Research on Path Planning Algorithm for multi UAV Based on the Genetic Algorithm, So far, Phase A of the project has been done, which is a book that contains a description of what has been done and a literature review, including planning for the programming of the proposed algorithm and convert the problem to the famous MTSP issue. 
